@@ -145,3 +145,5 @@ Many thanks to the following contributors who helped translating the app:
 * Dutch: [@Sonaryr](https://github.com/Sonaryr)
 
 If you are a native speaker of another language, please don't hesitate to make a pull request to add a translation.
+
+Clone of https://github.com/antoinejaussoin/retro-board

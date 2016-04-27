@@ -37,3 +37,6 @@ persist
 configuration.json
 assets
 stats
+
+# IntelliJ settings
+.idea/
